@@ -5,7 +5,7 @@
 
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-  [A deployed version can be viewed here.] https://limitless-badlands-15297.herokuapp.com/
+  [A deployed version can be viewed here.](https://limitless-badlands-15297.herokuapp.com/)
   
 ---
 ## Contents
@@ -19,7 +19,17 @@
 ---
 ## About
    The TextEditor PWA will allow you to enter text and will save the text in cached memory.
+   ![Manifest](https://user-images.githubusercontent.com/122688372/227783914-aff4bcb7-857a-40bc-b41f-a01c82ee29a5.png)
+
+  ![service-worker](https://user-images.githubusercontent.com/122688372/227783920-944441ab-f6d7-4db6-93b9-3b68548a29ca.png)
   
+  ![IndexedDB-JATE](https://user-images.githubusercontent.com/122688372/227783931-05ee7057-bcf9-44ac-8d34-8634b054a0e8.png)
+  
+  ![Install-JATE](https://user-images.githubusercontent.com/122688372/227784009-f9b63b0b-3c63-4e35-b38c-895f0f674b06.png)
+  
+  ![WebpageandAPP](https://user-images.githubusercontent.com/122688372/227784019-6c0c768b-8757-4b50-94bc-a57c45300d2c.png)
+  
+  ![Launchpad](https://user-images.githubusercontent.com/122688372/227784024-0d0d9548-4263-4513-b752-35f128457dcc.png)
 
 ---
 ## Installation:
@@ -27,7 +37,7 @@
 
   To clone the repo:
   
-      git clone https://github.com/Tim-Smith1/TextEditor-PWA
+      git clone (https://github.com/Tim-Smith1/TextEditor-PWA)
   
     Please make sure to run npm i on all 3 package.json
     for your convience you can use npm run install 
